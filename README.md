@@ -14,5 +14,6 @@ Just add it to the `.gitignore` or add it to the`.git/info/exclude` file
 But then, you must create the file, else, your command will fail.
 
 # important link
-http://sethrobertson.github.io/GitFixUm/fixup.html
+1. http://sethrobertson.github.io/GitFixUm/fixup.html
+2. https://www.jquery-az.com/undo-last-commit-in-git/
 

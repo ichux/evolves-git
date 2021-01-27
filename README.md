@@ -23,5 +23,5 @@ Plus, I do welcome anything to improve on it, but not to make it complex. Lol.
 
 Linkedin: https://www.linkedin.com/in/ichux
 Twitter: https://twitter.com/zuoike
-Telegram: https://t.me/zuoike
+Skype: portable3w
 

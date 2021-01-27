@@ -17,3 +17,11 @@ But then, you must create the file, else, your command will fail.
 1. http://sethrobertson.github.io/GitFixUm/fixup.html
 2. https://www.jquery-az.com/undo-last-commit-in-git/
 
+# get across
+If you used this process in your workflow, I would love to hear from you.
+Plus, I do welcome anything to improve on it, but not to make it complex. Lol.
+
+Linkedin: https://www.linkedin.com/in/ichux
+Twitter: https://twitter.com/zuoike
+Telegram: https://t.me/zuoike
+

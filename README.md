@@ -17,12 +17,15 @@ But then, you must create the file, else, your command will fail.
 1. http://sethrobertson.github.io/GitFixUm/fixup.html
 2. https://www.jquery-az.com/undo-last-commit-in-git/
 
+# reason why this is necessary
+1. It is true that `git log` can give metrics. But there are times when you want to see the 
+date and time when something is done online and in a commit message.
+
+2. I would also serve as proof of when you did you work, at least.
+
 # get across
 If you used this process in your workflow, I would love to hear from you.
 Plus, I do welcome anything to improve on it, but not to make it complex. Lol.
 
 1. Linkedin: https://www.linkedin.com/in/ichux
 2. Twitter: https://twitter.com/zuoike
-
-# appreciation
-

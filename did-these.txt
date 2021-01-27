@@ -1,7 +1,0 @@
-Did these
-
-modified:   automate.sh
-1. removed *git pull* since it is redundant
-
-Note: some things are done on purpose so that there will be the history.
-Cheers!

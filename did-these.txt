@@ -1,8 +1,7 @@
 Did these
 
-modified:   .gitignore
-1. removed all added files so that it can now show up in github
+modified:   automate.sh
+1. removed *git pull* since it is redundant
 
-modified:   README.md
-1. added the necessary process to use this repository
-
+Note: some things are done on purpose so that there will be the history.
+Cheers!
